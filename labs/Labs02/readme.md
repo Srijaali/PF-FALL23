@@ -9,3 +9,5 @@
 ****![q4 lab2](https://github.com/Srijaali/PF-FALL23/assets/142867637/220ea202-2330-4e7d-b81f-1df1d51070d5)
 ### Question 5
 ****![q5 lab2](https://github.com/Srijaali/PF-FALL23/assets/142867637/97d29172-2d3c-4045-b654-36cfe832d449)
+### Question 6
+****![TASK6 LAB2](https://github.com/Srijaali/PF-FALL23/assets/142867637/dd817cc4-cf15-44a2-afca-cc9894600c3b)
