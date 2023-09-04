@@ -9,3 +9,13 @@
 ****![q4](https://github.com/Srijaali/PF-FALL23/assets/142867637/8f7f0652-f8c0-4487-a56a-0ba6e49fd00e)
 ### Question 5
 ****![q5 pf](https://github.com/Srijaali/PF-FALL23/assets/142867637/e281356c-7b47-4a11-a5ca-90504b44b258)
+### Question 6
+****![q6 pf](https://github.com/Srijaali/PF-FALL23/assets/142867637/978df7fc-ab70-4d17-a098-d773043bcb04)
+### Question 7
+
+### Question 8
+****![q8 pf](https://github.com/Srijaali/PF-FALL23/assets/142867637/3c6fdb92-80a0-425f-9446-06af712ca020)
+### Question 9
+****![q9 pf](https://github.com/Srijaali/PF-FALL23/assets/142867637/bd1f24b1-0644-4747-80a6-32d44881c9f7)
+### Question 10
+****![q10 pf](https://github.com/Srijaali/PF-FALL23/assets/142867637/73cfbdec-e468-43a7-9170-70547b70c8ce)
