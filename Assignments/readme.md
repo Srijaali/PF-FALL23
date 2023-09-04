@@ -12,7 +12,9 @@
 ### Question 6
 ****![q6 pf](https://github.com/Srijaali/PF-FALL23/assets/142867637/978df7fc-ab70-4d17-a098-d773043bcb04)
 ### Question 7
-
+****![q7 01](https://github.com/Srijaali/PF-FALL23/assets/142867637/9be36543-3eff-4a5e-b16f-6f77dc1e953d)
+****![q7 02](https://github.com/Srijaali/PF-FALL23/assets/142867637/fb2d990c-d4a2-4f6b-ab9f-e0d113b535f4)
+****![q7 03](https://github.com/Srijaali/PF-FALL23/assets/142867637/67743054-b6e1-47e2-b3cd-634b18b99523)
 ### Question 8
 ****![q8 pf](https://github.com/Srijaali/PF-FALL23/assets/142867637/3c6fdb92-80a0-425f-9446-06af712ca020)
 ### Question 9
