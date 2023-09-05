@@ -1,5 +1,5 @@
-## Lab 03
-### Question 2 of scratch
+ Lab 03
+  Question 2 of scratch
 #include <stdio.h>
 int main()  {
         int len=0;
