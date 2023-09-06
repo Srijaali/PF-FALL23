@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <math.h>
+int main()  {
+	         int southward1 = 10;
+			 int westward = 10;
+			 int southward2= 5;
+			 int northward=-10;
+			 int fuelconsumptionperkm=2;
+			 int totaldistance=0;
+			 int totalfuelconsumed=0;
+			 printf("\n== calculating totaldistance ==\n");
+			 totaldistance = southward1 + westward + southward2 + northward;
+			 printf("totaldistance is: %d", totaldistance);
+			 printf("\n== calculating totalfuelconsumed ==\n");
+			 totalfuelconsumed = totaldistance * fuelconsumptionperkm;
+			 printf("totalfuelconsumed is: %d" , totalfuelconsumed);
+
+             return 0;
+}
