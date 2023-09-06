@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <math.h>
+int main()  {
+	         int originalprice = 1500;
+			 int discountpercentage = 20;
+			 int discountprice=0;
+			 discountprice = originalprice-(originalprice * discountpercentage/100);
+			 printf("discountprice is: %d", discountprice);
+			
+
+             return 0;
+}
