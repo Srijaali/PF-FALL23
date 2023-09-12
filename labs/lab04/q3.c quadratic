@@ -1,0 +1,30 @@
+#include <stdio.h>
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+int main() {
+            int a,b,c;
+            printf("Enter a: ");
+            scanf("%d", &a);
+            printf("Enter b: ");
+            scanf("%d",&b);
+            printf("Enter c: ");
+            scanf("%d",&c);
+            int sqroot;
+            int sum = (b*b)-(4*a*c);
+            if (sum < 0){
+                printf("\nNO real roots");
+                exit(0);
+            }else{
+                sqroot=sqrt(sum);
+                int x1 =((-1*b)+(sqroot))/(2*a);
+                int x2 =((-1*b)-(sqroot))/(2*a);
+                printf("\nthe value of of x1 is %d and x2 is %d", x1, x2);
+            }
+                
+                
+                
+                
+
+    return 0;
+}
