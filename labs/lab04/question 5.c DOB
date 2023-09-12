@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+            int dob1,dob2;
+            
+            printf("Enter the First Date of Birth(YYMMDD): ");
+            scanf("%d", &dob1);
+            
+            printf("Enter the Second Date of Birth(YYMMDD): ");
+            scanf("%d", &dob2);
+            
+            if(dob1 < dob2)
+            printf("The First Date of Birth is older.\n");
+            else if(dob1 > dob2)
+            printf("The Second Date of Birth is older.\n");
+            else
+            printf("Both dates of birth are same.\n");
+            
+
+    return 0;
+}
