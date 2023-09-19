@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main() {
+	// Write a C program to check whether a number is multiple of 3 or not. If it is then print “This number is multiple of 3”, otherwise print “This number is not multiple of 3”.
+	
+	int number;
+	int r;
+	printf("Enter a number:  ");
+	scanf("%d", &number);
+	r=number%3;
+
+	if (r==0) {
+	printf(" number is a multiple of 3");
+	}else{
+	printf("this number is not a multiple of 3");
+	}
+
+	return 0;
+	 }
