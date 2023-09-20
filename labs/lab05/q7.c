@@ -21,7 +21,7 @@ int main() {
                 printf("your discountprice is %f: \n", discountprice);
              }else if(actualamount <= 1999) {
                 discountprice = actualamount;
-                printf("No discount is applicable! \n", discountprice);
+                printf("No discount is applicable! &f: \n", discountprice);
              }
               
               savedamount = actualamount-discountprice;
