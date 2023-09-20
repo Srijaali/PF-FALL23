@@ -19,7 +19,7 @@ int main()  {
                     sqroot=sqrt(discriminant);
                     float x1 =((-1*b)+(sqroot))/(2*a);
                     float x2 =((-1*b)-(sqroot))/(2*a);
-                     printf(" The roots are Distinct and Real \n");
+                     printf(" The roots are Distinct and Real %f %f\n", x1,x2);
                 }else if(discriminant == 0) {
                     printf("Real Roots \n");
                 }
