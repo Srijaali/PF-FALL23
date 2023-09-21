@@ -10,8 +10,7 @@ int main() {
             bitnum4 = (num / 1000) % 10;
 
             if(bitnum7 && bitnum4) {
-                num = num - 1000000;
-                num = num - 1000;
+                num = num - 1000000 - 1000;
             } 
                printf("%d", num);
 
