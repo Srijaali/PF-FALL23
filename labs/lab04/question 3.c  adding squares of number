@@ -11,7 +11,7 @@ int main ()  {
 	while(count<n) {
 	printf("enter a number");
 	scanf("%d", &number);
-	count= count++;
+	 count++;
 	number= number*number;
 	sum=sum+number;
 	
