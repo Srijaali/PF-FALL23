@@ -1,6 +1,6 @@
 /**
 *Programmer : Syeda Rija Ali
-*Desc : Lab06
+*Desc : Lab06; perfect number
 *Date : 3rd October 2023	
 	
 
