@@ -1,3 +1,9 @@
+/**
+*Programmer : Syeda Rija Ali
+*Desc : Lab06
+*Date : 3rd October 2023	
+	
+
 #include <stdio.h>
 int main() {
 		int n;
