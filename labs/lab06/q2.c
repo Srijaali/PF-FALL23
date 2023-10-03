@@ -27,12 +27,12 @@ int main() {
 	temp=ans;
 	
  
-	if(n%3==0 || n%5==0 || n%7==0) {
-		sum =  sum + n;
+	if(ans%3==0 || ans%5==0 || ans%7==0) {
+		sum =  sum + ans;
 	}
 
 }
-	printf("%d", sum);
-	return 0;
+	printf("the sum is: %d\n", sum);
+	return 1;
 
 }
