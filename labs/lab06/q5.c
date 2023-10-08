@@ -1,4 +1,7 @@
-
+/**
+*Programmer : Syeda Rija Ali
+*Desc : Lab06; q5.c
+*Date : 3rd October 2023
 
 
 #include <stdio.h>
