@@ -1,3 +1,8 @@
+/**
+*Programmer : Syeda Rija Ali
+*Desc : Lab06; perfect number
+*Date : 3rd October 2023
+
 #include <stdio.h>
 int main() {
 	int a,b;
