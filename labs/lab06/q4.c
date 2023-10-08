@@ -1,6 +1,6 @@
 /**
 *Programmer : Syeda Rija Ali
-*Desc : Lab06; perfect number
+*Desc : Lab06; even,odd
 *Date : 3rd October 2023
 
 #include <stdio.h>
