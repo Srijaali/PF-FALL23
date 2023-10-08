@@ -19,10 +19,14 @@ int main() {
 	case 7: printf("Seven "); break;
 	case 8: printf("Eight"); break;
 	case 9: printf("Nine"); break;
-	default: if(k%2==0) printf(" it is Even ");
-		else printf("it is Odd ");
+    }
+    
+    if(k%2==0) printf(" it is Even\n ");
+		else printf("it is Odd\n ");
+
 
 
 
 }
+    }
 }
