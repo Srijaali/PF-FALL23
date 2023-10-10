@@ -1,6 +1,6 @@
 /* Programmer name: Rija Ali
 * Desc: array sum 
-*/Date: 10/10/23
+*/Date: 8/10/23
 
 
 
