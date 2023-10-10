@@ -1,3 +1,11 @@
+/* Programmer name: Rija Ali
+* Desc: matchstick game
+*/Date: 8/10/23
+
+
+
+
+
 #include <stdio.h>
 int main() {
            int user,computer;
