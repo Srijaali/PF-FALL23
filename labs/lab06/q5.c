@@ -1,6 +1,6 @@
 /**
 *Programmer : Syeda Rija Ali
-*Desc : Lab06; q5.c
+*Desc : Lab06; printing 4 even and 2 odd no.s in lines q5.c
 *Date : 3rd October 2023
 
 
