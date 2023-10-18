@@ -1,3 +1,8 @@
+/* Programmer name: Rija Ali
+* Desc: symmetry of array
+*/Date: 10/10/23
+
+
 #include <stdio.h>
 int symmetric(int arr[][3], int arr2[][3]){
             
