@@ -1,3 +1,11 @@
+/* Programmer name: Rija Ali
+* Desc: Total bill for all branches
+- Total bill for each branch
+- Branch ID where maximum bill arrived
+- Branch and Mobile Phone IDs where bill is highest of all mobile phones.
+*/Date: 10/10/23
+
+
 #include <stdio.h>
 
 int main() {
