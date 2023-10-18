@@ -1,3 +1,8 @@
+/* Programmer name: Rija Ali
+* Desc: subarray and finding sum within it
+*/Date: 10/10/23
+
+
 #include <stdio.h>
 int main()
 {
