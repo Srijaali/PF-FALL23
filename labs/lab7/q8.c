@@ -1,3 +1,8 @@
+/* Programmer name: Rija Ali
+* Desc: ascending order
+*/Date: 10/10/23
+
+
 #include <stdio.h>
 int main() {
             
