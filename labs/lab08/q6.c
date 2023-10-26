@@ -1,58 +1,36 @@
+//Array is [4, 8, 1, 15, 6]
 #include <stdio.h>
-int processarray(int n, int i) {
+#include <string.h>
+
+void processarray(int n, int arr1[]) {
             int sum=0;
-          
-		printf("Enter size of array");
-		scanf("%d",&n);
+            int min = arr1[0];
+            int max = arr1[0];
+		
+        printf("Enter the elements of array: ");
 
-		int arr1[100];
-		printf("Enter the elements of array: ");
-
-                for(i=0; i<n; i++){
-                    	scanf("%d", &arr[i]);
-			sum = sum + arr[i];
-                }
-               
-		 printf("the sum is: %d", sum);
-            
-         //max and min   
-	printf("Enter array size:");
-	scanf("%d",&n);
-	
-	int arr2[n];
-	printf("Enter array elements:");
-int i;
-	for(i=0;i<n;i++){
-		scanf("%d",&arr[i]);
+                for(int i=0; i<n; i++){
+                    	scanf("%d", &arr1[i]);
+			sum = sum + arr1[i];
+              
+    for(int i=0; i<n; i++){
+    if(max < arr1[i])
+        max = arr1[i];
+    else if(min > arr1[i])
+            min = arr1[i];
 }
-
-int j,min,max;
-
     
-min = arr[0];
-max = arr[0];
-
-
-    for(i=0; i<10; i++){
-    if(max < arr[i])
-        max = arr[i];
-    else if(min > arr[i])
-            min = arr[i];
 }
-
-    printf("Max: %d\nMin: %d", max,min);
+    printf("the sum is: %d\n", sum);
+    printf("Max: %d\nMin: %d", max, min);
 }
 
 int main(){
-	int n;
-		printf("Enter array size:");
-	scanf("%d",&n);
 	
-	int arr2[n];
-	printf("Enter array elements:");
-int i;
-	for(i=0;i<n;i++){
-		scanf("%d",&arr[i]);
+	
+	int arr1[5]={4,8,1,15,6};
 
-    processarray(n,arr);
+
+    processarray(5,arr1);
+    return 0;
 }
