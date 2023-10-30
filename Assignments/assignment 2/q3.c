@@ -1,7 +1,7 @@
 /*
 *Programmer: Syeda Rija Ali
 *Desc: flights availability using 2d array
-*/
+/*
 /* 1. flight availabilty: user ppref based on price and avaialability
 2. preference of moring time slot: determine days 
 3. preference of evening time slot: determine days
