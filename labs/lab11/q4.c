@@ -16,11 +16,11 @@ void increaseSalary(struct employee employeedata[]) {
     int i;
     for (i = 0; i < 10; i++) {
         if (employeedata[i].hrsperday >= 12) {
-            employeedata[i].salary = employeedata[i].salary + 150;
+            employeedata[i].salary +=  150;
         } else if (employeedata[i].hrsperday >= 10) {
-            employeedata[i].salary = employeedata[i].salary + 100;
+            employeedata[i].salary += 100;
         } else if (employeedata[i].hrsperday >= 8) {
-            employeedata[i].salary = employeedata[i].salary + 50;
+            employeedata[i].salary +=  50;
         }
     }
 }
