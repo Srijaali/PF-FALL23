@@ -7,7 +7,7 @@ Desc: merging files
 #include <stdio.h>
 
 
-struct worker {
+struct employees {
     int ID;
     char name[20];
     int salary;
@@ -15,7 +15,7 @@ struct worker {
 
 void personal();
 void department();
-void combining();
+void combine();
 
 int main() {
 	
@@ -79,7 +79,7 @@ void department() {
     fclose(file);
 }
 
-void combining() {
+void combine() {
 	 struct worker w[3];
     int i, t[3];
     FILE *per = fopen("personal.txt", "r");
